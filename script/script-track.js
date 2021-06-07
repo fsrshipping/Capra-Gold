@@ -15,7 +15,7 @@ $(document).ready(function() {
 
     $("#trackbutton").click(function() {
         let getNumber = $("#trackingnumber").val();
-        let link = "https://fsr-shipping.netlify.app/trk/" + getNumber + ".html";
+        let link = "https://capragold-logistics.netlify.app/trk/" + getNumber + ".html";
         checkPage(link);      
         $("#tracking-main").load(link);
     });
@@ -24,7 +24,7 @@ $(document).ready(function() {
     $('#trackingnumber').on('keypress', function (e) {
         if(e.which === 13){
             let getNumber = $("#trackingnumber").val();
-            let link = "https://fsr-shipping.netlify.app/trk/" + getNumber + ".html";
+            let link = "https://capragold-logistics.netlify.app/trk/" + getNumber + ".html";
             checkPage(link)
             $("#tracking-main").load(link);
         }
