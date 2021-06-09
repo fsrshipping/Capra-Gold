@@ -5,8 +5,8 @@ const contactEmailaddress = document.getElementById("contact__emailaddress");
 // Random encryption key feature coded by Andrew Moulden
 // This code is freeware provided these four comment lines remain intact
 // A wizard to generate this code is at http://www.jottings.com/obfuscator/
-{ coded = "bhxNh1v2C.2v1Bn0Bbn+bSn0vIdN.ndNrBbdN.nd"
-  key = "Ve2QX0ZNRHjo4pOEAnJCIiMPlyStYrbK17wT5hWs6dmL9D8fukGvcxg3UqFazB"
+{ coded = "wGQZGJzol.ozJ40y4w0+wT0yzpmZ-0mZA4wm@JpG4o.wzp"
+  key = "wEfMmjstTqzKkPg3c419eAGCuRoZ67hXNiQ5xvanWSlr8F2YUVpH0yOLIDdbJB"
   shift=coded.length
   link=""
   for (i=0; i<coded.length; i++) {
