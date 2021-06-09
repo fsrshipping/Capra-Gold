@@ -1,0 +1,141 @@
+.container__footer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 4rem 2rem;
+}
+
+.footer {
+    background-color: $DavysGrey;
+    width: 100%;
+    color: $Eggshell;
+
+    &__address {
+
+        &__name {
+            height: 1.75rem;
+        }
+
+        &__text {
+            text-align: center;
+            margin: 0;
+            font-size: .875rem;
+            line-height: 1.6;
+        }
+
+        &__email {
+            text-decoration: none;
+            color: $Eggshell;
+            transition: color .35s ease-in-out;
+            
+            &:hover {
+                cursor: pointer;
+                color: $PewterBlue;
+            } 
+        }
+
+        &__icon {
+            margin-right: .125rem;
+        }
+    }
+
+    &__socials {
+        margin-top: 3rem;
+        font-size: 1.5rem;
+
+        &__icon {
+            color: $Eggshell;
+            text-decoration: none;
+
+            &+.footer__socials__icon {
+                margin-left: 1.5rem;
+            }
+
+            &:hover {
+                cursor: pointer;
+                color: $PewterBlue;
+            }
+        }
+    }
+
+    &__copyright {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+
+        &__logo  {
+            height: 4rem;
+            margin: 3rem auto;
+        }
+
+        &__text {
+            font-size: .875rem;
+        }
+    }
+}
+
+@media (min-width: 560px) {
+    .container__footer {
+        flex-direction: row;
+        justify-content: space-between;
+    }
+
+    .footer {
+        &__address {
+            align-self: flex-end;
+
+            &__name {
+                height: 1.125rem;
+            }
+
+            &__text {
+                text-align: left;
+            }
+        }
+
+        &__copyright {
+            height: 132.857px;
+            justify-content: space-between;
+
+            &__logo {
+                margin: 0 0 0 auto;
+            }
+
+            &__text {
+                text-align: right;
+                margin: 28px 0 0 0;
+            }
+        }
+
+        &__socials {
+            height: 132.857px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: space-between;
+            margin-top: 0;
+
+            &__icon {
+
+                &+.footer__socials__icon {
+                    margin-left: 0;
+                }
+                
+            }
+        }
+
+        @media (min-width: 680px) {
+            .footer__socials {
+                flex-direction: row;
+                align-items: flex-end;
+
+                &__icon {
+
+                    &+.footer__socials__icon {
+                        margin-left: 1.5rem;;
+                    }
+                }
+            }
+        }
+    }
+}

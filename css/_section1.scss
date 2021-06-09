@@ -1,0 +1,67 @@
+.container__section1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6rem 2.5rem 4rem 2.5rem;
+}
+
+.section1 {
+    width: 100%;
+    background-image: url(../img/background/globe.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: rgba(0,0,0,.3);
+    background-blend-mode: overlay;
+    color: $Eggshell;
+    text-align: center;
+
+    &__img {
+        height: 4rem;
+        margin: 2rem auto;
+    }
+}
+
+.subscribe {
+
+    &__input {
+        background-color: $Eggshell;
+        padding: .5rem;
+        font-size: 1rem;
+        font-family: 'Lato', sans-serif;
+        border: 2px solid $DavysGrey;
+        border-radius: 10px 0 0 10px;
+    }
+
+    &__button {
+        font-family: 'Lato', sans-serif;
+        padding: .5rem;
+        font-size: 1rem;
+        background-color: $VegasGold;
+        transition: all .35s ease-in-out;
+        border: 2px solid $DavysGrey;
+        border-radius: 0 10px 10px 0;
+        margin-left: -6px;
+
+        &:hover {
+            background-color: $PewterBlue;
+            cursor: pointer;
+        }
+    }
+
+    &__message {
+        font-size: 14px;
+        opacity: 0.01;
+        margin-bottom: 0;
+
+        &__error {
+            opacity: 1;
+            color: red !important;
+        }
+
+        &__passed {
+            opacity: 1;
+            color: $Eggshell;
+        }
+    }
+}

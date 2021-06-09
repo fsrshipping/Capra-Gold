@@ -1,0 +1,69 @@
+
+/* Main colors */
+$DavysGrey: #4c4c4c;
+$VegasGold: #c3ab4f;
+$Eggshell: #EEE8CE;
+
+/* Accent colors */
+$Cadet: #64757F;
+$PewterBlue: #7C9EB2;
+
+$Artichoke: #A0A581;
+
+/* Gradient */
+$Onyx : #454545;
+$GoldFusion: #887C4E;
+$VegasGoldMedium: #C8B35F;
+$VegasGoldLight: #CDBA6E;
+$Ecru: #D2C07B;
+$MediumChampagne: #DDD09C;
+/* -- Eggshell */
+$White: #FFF;
+
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    font-family: 'Lato', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: 'Raleway', sans-serif;
+}
+
+a {
+    transition: all .3s ease-in-out;
+}
+
+.btn {
+    font-size: 1rem;
+    font-weight: bold; 
+    text-decoration: none;
+    color: $Eggshell;
+    background-color: $VegasGold;
+    border: 2px solid $Cadet;
+    border-radius: 10px;
+    padding: .5rem 2rem;
+    margin: 0 auto;
+    transition: all .3s ease-in-out;
+
+    &:hover {
+        color: $Cadet;
+        background-color: $PewterBlue;
+        cursor: pointer;
+    }
+
+}
+
+.container {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
+}

@@ -1,0 +1,33 @@
+.technology {
+    width: 100%;
+    background-image: url(../img/tech/01.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-size: cover;
+    background-color: rgba(0,0,0,.5);
+    background-blend-mode: overlay;
+    transition: all 2s ease-in;
+}
+
+.container__technology {
+    padding: 4rem 2.5rem;
+    color: $Eggshell;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+}
+
+.technology {
+
+    &__img {
+        width: 8rem;
+        margin: 2rem auto;
+        border: 2px solid $VegasGold;
+        border-radius: 10px;
+    }
+
+    &__btn {
+        margin-top: 3rem;
+    }
+}

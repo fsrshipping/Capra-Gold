@@ -1,0 +1,66 @@
+.tracking {
+
+    &__main {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        padding: 4rem 2.5rem;
+    }
+
+    &__form {
+        margin-top: 1rem;
+        display: flex;
+        flex-direction: column;
+
+        &__label {
+            font-weight: bold;
+            color: $VegasGold
+        }
+
+        &__input {
+            margin: .5rem 0 2rem 0;
+            font-family: 'Lato', sans-serif;
+            padding: .25rem;
+            width: 300px;
+        }
+
+        &__btn {
+            margin-bottom: 3rem;
+        }
+    }
+
+    &__logo {
+        width: 3rem;
+        margin-top: 1rem;
+    }
+}
+
+.trackingpage {
+    &__text {
+        margin: 0;
+    }
+
+    &__ellipses {
+        margin: .5rem auto;
+    }
+
+    &__contact {
+        margin-top: 3rem;
+    }
+
+    &__logo {
+        width: 3rem;
+        margin: 2rem auto;
+    }
+}
+
+.page404 {
+    &__btn {
+        margin-top: 2rem;
+    }
+    
+    &__logo {
+        width: 3rem;
+        margin: 2rem auto;
+    }
+}
