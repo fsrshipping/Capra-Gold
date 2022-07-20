@@ -1,12 +1,15 @@
 <!--
     Scammer / baiter name or other info that will not be displayed on the page
+    OGHENERO CHARLES OHWAVWORHUA - Chuck
 -->      
 
 <h2 class="trackingpage__title">Your Parcel Status</h2>
 
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> DATE/TIME - LOCATION</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/7/2022 / 10.37 - Aberdeen CG local branch, UK. Parcel registered. </p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> DATE/TIME - LOCATION</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/7/2022 / 11.22 - Aberdeen International Airport, UK. Parcel in transit. </p>
+<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
+
         
 <div class="trackingpage__contact">
     <p>Please allow a 24 hour delay in status updates.</p>
