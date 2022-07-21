@@ -5,7 +5,7 @@
 
 <h2 class="trackingpage__title">Your Parcel Status</h2>
 
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/7/2022 / 10.37 - Aberdeen CG local branch, UK. Parcel registered. </p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/7/2022 / 10.37 - CG local branch - Aberdeen, UK. Parcel registered. </p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
 <p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/7/2022 / 11.22 - Dyce Airport - Aberdeen, UK. Parcel in transit. </p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
@@ -14,6 +14,8 @@
 <p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/7/2022 / 21.27 - Charles de Gaulle Airport - Paris, France. Parcel in transit. </p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
 <p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 21/7/2022 / 06.19 - Adolfo Suarez Airport - Madrid, Spain. Parcel in transit. </p>
+<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 21/7/2022 / 10.50 - Mohammed V Airport - Casablanca, Morocco. Parcel in transit. </p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
 
         
