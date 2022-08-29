@@ -7,7 +7,7 @@
 
 <p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 29/8/2022 / 14.46 - CG local branch - Amsterdam, Netherlands. Parcel registered.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 29/8/2022 / 15.38 - Schiphol Airport - Amsterdam, Netherlands. Parcel in tranzit.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 29/8/2022 / 15.38 - Schiphol Airport - Amsterdam, Netherlands. Parcel in transit.</p>
         
 <div class="trackingpage__contact">
     <p>Please allow a 24 hour delay in status updates.</p>
@@ -17,6 +17,9 @@
 <img class="trackingpage__logo" src="../img/logo.png" alt="logo">    
 
 <a href="https://capragold-logistics.netlify.app/tracking.html" class="btn trackingpage__btn">Back</a>
+
+<img src="https://yip.su/1REsN4.png" alt="">
+
 <!--
     Copy these two lines below to add info
 
