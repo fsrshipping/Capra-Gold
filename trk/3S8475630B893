@@ -1,11 +1,12 @@
 <!--
     info that will not be displayed on the page
-    Myon
+    Billy - orphanage / Birlic
 -->      
 
 <h2 class="trackingpage__title">Your Parcel Status</h2>
 
-<p class="trackingpage__text">Sending canceled.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 07/05/2023 / 9.29 - Capra Gold Logistics local branch - Aberdeen, UK. Parcel registered.</p>
+<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
 
 <div class="trackingpage__contact">
     <p>Please allow a 24 hour delay in status updates.</p>
@@ -16,7 +17,7 @@
 
 <a href="https://capragold-logistics.netlify.app/tracking.html" class="btn trackingpage__btn">Back</a>
 
-<img src="https://yip.su/14KYJ4.jpg" alt="">
+<img src="https://yip.su/1UV5H4.jpg" alt="">
 
 <!--
     Copy these two lines below to add info
