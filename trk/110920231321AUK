@@ -4,7 +4,9 @@
 
 <h2 class="trackingpage__title">Your Parcel Status</h2>
 
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 11/09/2023 / 13.21 - Capra Gold Logistics local branch - Aberdeen, UK. Parcel registered.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 11/09/2023 / 13.21 - Capra Gold Logistics local branch - Aberdeen, UK. Parcel received.</p>
+<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 11/09/2023 / 13.49 - Dyce International airport - Aberdeen, UK. Parcel registered.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
 
 
