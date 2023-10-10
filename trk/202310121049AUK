@@ -1,0 +1,32 @@
+<!--
+    Scammer / baiter name or other info that will not be displayed on the page
+    Reverend Jonas
+-->      
+
+<h2 class="trackingpage__title">Your Parcel Status</h2>
+
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 12/10/2023 / 10.37 - CG local branch - Aberdeen, UK. Parcel registered. </p>
+<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 12/10/2023 / 11.22 - Dyce Airport - Aberdeen, UK. Parcel in transit. </p>
+<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
+
+
+        
+<div class="trackingpage__contact">
+    <p>Please allow a 24 hour delay in status updates.</p>
+    <p>For any questions please contact your personal customer service representative.</p>
+</div>
+        
+<img class="trackingpage__logo" src="../img/logo.png" alt="logo">    
+
+<a href="https://capragold-logistics.netlify.app/tracking.html" class="btn trackingpage__btn">Back</a>
+
+<img src="https://yip.su/1RBrC4.jpg" alt="">
+
+<!--
+    Copy these two lines below to add info
+
+    <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
+    <p class="trackingpage__text"><i class="fas fa-crosshairs"></i> DATE / TIME - LOCATION</p>
+
+-->
