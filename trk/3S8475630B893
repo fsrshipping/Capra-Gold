@@ -1,23 +1,17 @@
 <!--
     info that will not be displayed on the page
-    Billy - orphanage / Birlic
+    Jebediah Goreman
 -->      
 
 <h2 class="trackingpage__title">Your Parcel Status</h2>
 
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 09/05/2023 / 9.29 - Capra Gold Logistics local branch - Aberdeen, UK. Parcel registered.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 15/12/2023 / 14.21 - Capra Gold Logistics local branch - Jackson, Mississippi. Parcel registered.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 09/05/2023 / 10.39 - Aberdeen International airport, UK. Parcel in transit.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 15/12/2023 / 20.54 - Medgar Evers airport - Jackson, Mississippi. Parcel in transit.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 09/05/2023 / 13.03 - Heathrow International airport, London, UK. Parcel in transit.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 17/12/2023 / 15.30 - Heathrow airport - London, UK. Parcel in transit.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 09/05/2023 / 19.58 - Adolfo Suarez International airport, Madrid, Spain. Parcel in transit.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 10/05/2023 / 08.48 - Mohammed V International airport, Casablanca, Morocco. Parcel in transit.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 11/05/2023 / 05.52 - Blaise Diagne International airport, Dakar, Senegal. Parcel in transit.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 11/05/2023 / 08.45 - Kotoka International airport, Accra, Ghana. Parcel in transit.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 18/12/2023 / 19.51 - Brussels airport - Brussels, Belgium. Parcel in transit.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
 
 <div class="trackingpage__contact">
