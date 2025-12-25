@@ -4,35 +4,11 @@
 
 <h2 class="trackingpage__title">Your Parcel Status</h2>
 
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 25/11/2022 / 15.18 - CG local branch - Aberdeen, UK. Parcel registered.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 26/12/2025 / 15.41 - CG local branch - Aberdeen, UK. Parcel registered.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 25/11/2022 / 17.31 - Aberdeen Harbour, Aberdeen, UK. Parcel in transit.</p>
+<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 26/12/2025 / 17.31 - Aberdeen airport, Aberdeen, UK. Parcel in transit.</p>
 <p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 27/11/2022 / 06.24 - Aberdeen Harbour, Aberdeen, UK. Parcel in transit, ship undocked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 29/11/2022 / 18.09 - Port de Brest, Brest, FR. Parcel in transit, ship docked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 30/11/2022 / 8.22 - Port de Brest, Brest, FR. Parcel in transit, ship undocked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 2/12/2022 / 4:48 - Port of Casablanca, Casablanca, Morocco. Parcel in transit, ship docked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 2/12/2022 / 9:03 - Port of Casablanca, Casablanca, Morocco. Parcel in transit, ship undocked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 2/12/2022 / 9:03 - Port of Nouadhibou, Nouadhibou, Mauritania. Parcel in transit, ship docked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 7/12/2022 / 7:12 - Port of Nouadhibou, Nouadhibou, Mauritania. Parcel in transit, ship undocked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 10/12/2022 / 23:46 - Freeport of Monrovia, Monrovia, Liberia. Parcel in transit, ship docked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 12/12/2022 / 6:28 - Freeport of Monrovia, Monrovia, Liberia. Parcel in transit, ship undocked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 14/12/2022 / 10:41 - Tema Harbour, Accra, Ghana. Parcel in transit, ship docked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 20/12/2022 / 6:51 - Tema Harbour, Accra, Ghana. Parcel in transit, ship undocked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 12/01/2023 / 17:29 - Port Autonome de Cotonou, Cotonou, Benin republic. Parcel in transit, ship docked.</p>
-<p class="trackingpage__ellipses"><i class="fas fa-ellipsis-v"></i></p>
-<p class="trackingpage__text"><i class="fas fa-crosshairs"></i> 18/01/2023 / 14:37 - Parakou, Benin republic. Parcel in transit, stored at local facility.</p>
+
 
 <div class="trackingpage__contact">
     <p>Please allow a 24 hour delay in status updates.</p>
